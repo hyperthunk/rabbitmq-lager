@@ -52,7 +52,7 @@ at https://github.com/basho/lager#custom-formatting for more details.
 A binary release of the plugin, compiled against R14B03 is available for
 download from github:
 
-    $ curl -O https://raw.github.com/hyperthunk/rabbitmq-lager/master/rabbitmq_lager-2.0.0.ez
+    $ curl -O https://raw.github.com/hyperthunk/rabbitmq-lager/binary-dist/rabbitmq_lager-2.0.0.ez
 
 The binary artefact should be placed into your `plugins` directory and
 should then be visible via the `rabbitmq-plugins list` command.
