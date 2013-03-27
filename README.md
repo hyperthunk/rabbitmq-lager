@@ -49,7 +49,7 @@ at https://github.com/basho/lager#custom-formatting for more details.
 
 ### Installation
 
-A binary release of the plugin, compiled against R13B03 is available for
+A binary release of the plugin, compiled against R14B03 is available for
 download from github:
 
     $ curl -O https://raw.github.com/hyperthunk/rabbitmq-lager/master/rabbitmq_lager-2.0.0.ez
