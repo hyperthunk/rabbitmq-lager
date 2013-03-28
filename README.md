@@ -65,8 +65,8 @@ should be enough to get you up and running.
     $ hg clone http://hg.rabbitmq.com/rabbitmq-public-umbrella
     $ cd rabbitmq-public-umbrella
     $ make co
-    $ git clone git://github.com/hyperthunk/rabbitmq-lager.git
-    $ cd rabbitmq-lager
+    $ git clone git://github.com/hyperthunk/rabbitmq-lager.git lager
+    $ cd lager
     $ make
 
 The built artefact will be located beneath the `./dist` folder.

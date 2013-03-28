@@ -1,5 +1,5 @@
 RELEASABLE=true
-APP_NAME:=rabbitmq_lager
+APP_NAME:=lager
 
 UPSTREAM_GIT:=http://github.com/basho/lager.git
 ## revision is pinned at 2.0.0rc1
